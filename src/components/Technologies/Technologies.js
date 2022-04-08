@@ -1,5 +1,6 @@
 import React from 'react';
 import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { FaAws } from "react-icons/fa";
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -38,13 +39,13 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <FaAws size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>CLOUD</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            AWS cloud
           </ListParagraph>
         </ListContainer>
       </ListItem>
