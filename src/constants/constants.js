@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'SOCIAL BLOGGING BLOG',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "Developed a React app that features realtime data from Firebase and server-side rendering with Next.js. Authors can create content under their custom username, then publish publicly with SEO - friendly rendering, while readers can heart or like posts in real time.Implemented advanced SSR, SSG, and ISR techniques in the Next framework.Deployed on Vercel",
     image: '/images/1.png',
     tags: ['React', 'Next'],
     source: 'https://github.com/Prasheelreddy/nextBlog',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'MUSIC PLAYER',
-    description: "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description: "a music app with features like playlists, audio player, shuffle, and more! Used a modern stack of tools: React, Next.js, Typescript, and Postgres. Code reusable UI components, database schemas and migrations, API calls with serverless functions, and deploy it on vercel ",
     image: '/images/spotify.jpg',
     tags: ['React', 'Next', 'Prisma(ORM)', "PostgreSQL"],
     source: 'https://github.com/Prasheelreddy/music-player',
@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'TWITTER PAGE CLONE',
+    title: 'TWITTER PAGE CLONE(In Development)',
     description: "Built with TypeScript and GraphQL's type systems to create full-stack, fully-type-checked codebases.Able to create new tweets.Able to like and unlike tweets.",
     image: '/images/1.png',
     tags: ['React', 'Typescript', 'Graphql'],
