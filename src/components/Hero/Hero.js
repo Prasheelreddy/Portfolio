@@ -13,9 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I am currently pursuing my masters from VIT University. My focus is to gain in depth knowledge in
-both frontend and backend technologies,software core paradigms and user experience design. An
-individual who seeks new challenges and opportunities. </SectionText>
+          Associate with 2 years of experience at Nokia, proficient in Python, jQuery, UI development, and scripting. Demonstrated ability to deliver high-quality code and contribute to project success through strong technical skills and effective collaboration.</SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>
